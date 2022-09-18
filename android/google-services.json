@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "972320450548",
+    "project_id": "mydemo-9e9bc",
+    "storage_bucket": "mydemo-9e9bc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:972320450548:android:6ffd47fa9623a995653ba1",
+        "android_client_info": {
+          "package_name": "com.baby_amore_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "972320450548-04f2bcar5ra3mbrdsesvnkefn7v18o86.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD38Du1WW0Rqel4Qkpw0ifAus15BTJ6Izc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "972320450548-04f2bcar5ra3mbrdsesvnkefn7v18o86.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

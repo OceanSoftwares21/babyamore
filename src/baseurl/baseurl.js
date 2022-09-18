@@ -1,0 +1,1 @@
+export default Base_url ='http://54.255.246.233:5000'
